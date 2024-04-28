@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Basics -->
+    <string name="app_name">About Activity</string>
+    <string name="yes">Sim</string>
+    <string name="create">Criar</string>
+    <string name="close">Fechar</string>
+    <string name="settings">Configurações</string>
+    <string name="is_running">%s em execução. </string>
+    <string name="touch_to_open">Clique para Configurações</string>
+    <string name="noti_action_stop">Parar</string>
+
+    <!-- activity_main -->
+
+    <string name="show_window">Mostrar janela flutuante</string>
+    <string name="use_toggle_notification">Não mostrar notificações</string>
+    <string name="use_accessibility">Usar serviço de acessibilidade</string>
+
+    <!-- MainActivity.java -->
+
+    <string name="overlay_permission_title">Permissão de sobreposição</string>
+    <string name="overlay_permission_message">Ative a permissão de sobreposição para mostrar a janela sobre outros aplicativos </string>
+
+    <string name="accessibility_permission_title">Permissão de acessibilidade</string>
+    <string name="accessibility_permission_message">De acordo com sua escolha, conceda permissão para usar o aplicativo Serviço de acessibilidade para atividades atuais para obter informações sobre atividades atuais </string>
+
+    <string name="usage_access_permission_title">Acessar dados de uso</string>
+    <string name="usage_access_permission_message">Para monitorar a tarefa atual, conceda permissão de acesso de uso para o aplicativo Atividade Atual </string>
+
+    <string name="about_app_title">Sobre o aplicativo</string>
+    <string name="about_app_message">Uma ferramenta de código aberto útil para desenvolvedores Android, que mostra o nome do pacote e o nome da classe da atividade atual\n\nAqui estão os principais recursos deste aplicativo!\n● Ele fornece uma janela pop-up que pode ser movida livremente para visualizar informações da atividade atual\n● Suporta cópia de texto de janela pop-up\n● Suporta configurações rápidas e atalhos de aplicativos para facilitar o acesso à janela pop-up. O que significa que você pode obter a janela pop-up na tela de qualquer lugar </string>
+
+    <string name="github_repo_title">Repositório GitHub</string>
+    <string name="github_repo_message">É um projeto de código aberto. Gostaria de visitar o repositório oficial do github deste aplicativo?  </string>
+
+    <string name="crash_log_title">Log de falha</string>
+    <string name="crash_log_not_found">Não encontrado.</string>
+
+    <string name="bug_report_title">Reportar erro</string>
+    <string name="bug_report_message">Se você encontrou um bug ao usar este aplicativo, faça uma captura de tela dele, se possível. Se for uma falha, você poderá encontrar o log da falha neste diretório: </string>
+    <string name="bug_report_message_2">\n\nDepois de obter todas as coisas necessárias relacionadas ao bug, abra um problema no repositório github deste aplicativo com os detalhes do seu relatório de bug </string>
+</resources>

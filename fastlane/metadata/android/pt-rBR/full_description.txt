@@ -1,0 +1,7 @@
+Uma ferramenta útil de código aberto para desenvolvedores Android, que mostra o nome do pacote e o nome da classe da atividade atual.
+Aqui estão os principais recursos deste aplicativo!
+
+ - Ele fornece uma janela pop-up livremente móvel para visualizar informações da atividade atual 
+ - Suporta cópia de texto da janela pop-up 
+ - Suporta configurações rápidas e atalhos de aplicativos para fácil acesso à janela pop-up. 
+ O que significa que você pode obter a janela pop-up na tela de qualquer lugar

@@ -1,0 +1,6 @@
+An useful open source tool for Android Developers, which shows the package name and class name of current activity
+
+Here are the main features of this app!
+- It provides a freely moveable popup window to view current activity info
+- It supports text copying from popup window
+- It supports quick settings and app shortcut for easy access to the popup window. Meaning you can get the popup window in your screen from anywhere</string>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Basics -->
+    <string name="app_name">About Activity</string>
+    <string name="yes">Yes</string>
+    <string name="create">Create</string>
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="is_running">%s is running</string>
+    <string name="touch_to_open">Touch for settings.</string>
+    <string name="noti_action_stop">Stop</string>
+
+    <!-- activity_main -->
+
+    <string name="show_window">Show floating window</string>
+    <string name="use_toggle_notification">Don\'t show notification</string>
+    <string name="use_accessibility">Use Accessibility Service</string>
+
+    <!-- MainActivity.java -->
+
+    <string name="overlay_permission_title">OverlayPermission</string>
+    <string name="overlay_permission_message">Please enable overlay permission to show window over other apps</string>
+
+    <string name="accessibility_permission_title">Accessibility Permission</string>
+    <string name="accessibility_permission_message">As per your choice, please grant permission to use Accessibility Service for Current Activity app in order to get current activity info</string>
+
+    <string name="usage_access_permission_title">Usage Acess</string>
+    <string name="usage_access_permission_message">In order to monitor current task, please grant Usage Access permission for Current Activity app</string>
+
+    <string name="about_app_title">About App</string>
+    <string name="about_app_message">An useful open source tool for Android Developers, which shows the package name and class name of current activity\n\nHere are the main features of this app!\n● It provides a freely moveable popup window to view current activity info\n● It supports text copying from popup window\n● It supports quick settings and app shortcut for easy access to the popup window. Meaning you can get the popup window in your screen from anywhere</string>
+
+    <string name="github_repo_title">Github Repository</string>
+    <string name="github_repo_message">It is an open source project. Would you like to visit the official github repo of this app?</string>
+
+    <string name="crash_log_title">Crash Log</string>
+    <string name="crash_log_not_found">Not found</string>
+
+    <string name="bug_report_title">Bug Report</string>
+    <string name="bug_report_message">If you found a bug while using this app, please take a screenshot of it if possible. If its a crash then you can find the crash log in this directory:</string>
+    <string name="bug_report_message_2">\n\nAfter you get all necessary things related to the bug, open an issue in github repo of this app with your bug report details</string>
+</resources>
