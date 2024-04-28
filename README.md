@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="210em" height="auto" src="./.resources/images/ic_launcher.png" alt="Logo" border="0">
+  <img width="210em" height="auto" src="fastlane/metadata/android/en-US/images/ic_launcher.png" alt="Logo" border="0">
 </div>
 <h1 align="center">
   <b>About Activity</b>
@@ -11,23 +11,23 @@ An useful tool for Android Developers &amp; Reversers, which shows the package n
 <div align="center" >
    <img src="https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black">
         <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/aquilestrindade/stringscreator.svg?color=FFFFFF&style=for-the-badge&logo=gitbook&logoColor=ebebf0&labelColor=23232F" alt="License">
+        <img src="https://img.shields.io/github/license/aquilestrindade/about-activity.svg?color=FFFFFF&style=for-the-badge&logo=gitbook&logoColor=ebebf0&labelColor=23232F" alt="License">
     </a>
-    <a href="https://github.com/aquilesTrindade/StringsCreator/releases">
-        <img src="https://img.shields.io/github/v/release/aquilesTrindade/StringsCreator?color=FFFFFF&style=for-the-badge&logo=pkgsrc&logoColor=ebebf0&labelColor=23232F" alt="GitHub release">
+    <a href="https://github.com/aquilesTrindade/about-activity/releases">
+        <img src="https://img.shields.io/github/v/release/aquilesTrindade/about-activity?color=FFFFFF&style=for-the-badge&logo=pkgsrc&logoColor=ebebf0&labelColor=23232F" alt="GitHub release">
     </a>
-        <a href="https://github.com/aquilesTrindade/StringsCreator/releases">
-        <img src="https://img.shields.io/github/downloads/aquilesTrindade/StringsCreator/total.svg?color=FFFFFF&style=for-the-badge&labelColor=23232F" alt="Download Counts">
-                <a href="https://github.com/aquilesTrindade/StringsCreator/stargazers">
-        <img src="https://img.shields.io/github/stars/aquilesTrindade/StringsCreator.svg?color=FFFFFF&style=for-the-badge&logo=apachespark&logoColor=ebebf0&labelColor=23232F" alt="Stars Count">
+        <a href="https://github.com/aquilesTrindade/about-activity/releases">
+        <img src="https://img.shields.io/github/downloads/aquilesTrindade/about-activity/total.svg?color=FFFFFF&style=for-the-badge&labelColor=23232F" alt="Download Counts">
+                <a href="https://github.com/aquilesTrindade/about-activity/stargazers">
+        <img src="https://img.shields.io/github/stars/aquilesTrindade/about-activity.svg?color=FFFFFF&style=for-the-badge&logo=apachespark&logoColor=ebebf0&labelColor=23232F" alt="Stars Count">
     </a>
-    <img alt="GitHubLastCommit" src="https://img.shields.io/github/last-commit/aquilesTrindade/StringsCreator?color=FFFFFF&style=for-the-badge&logo=github&logoColor=ebebf0&labelColor=23232F">
+    <img alt="GitHubLastCommit" src="https://img.shields.io/github/last-commit/aquilesTrindade/about-activity?color=FFFFFF&style=for-the-badge&logo=github&logoColor=ebebf0&labelColor=23232F">
 </div>
 
   </div>
 <br/>
 
-<a href='https://play.google.com/store/apps/details?id=com.trindade.about.activity'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='200'/></a>
+<!-- <a href='https://play.google.com/store/apps/details?id=com.trindade.about.activity'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='200'/></a> -->
 
 <h1 align="left">
   <b>&nbsp;How it works</b>
@@ -45,8 +45,7 @@ It uses accessibility service api and package usage stats to monitor app activit
   <b>&nbsp;Credits</b>
 </h1>
 
-* [Wen](https://github.com/109021017) for [project base](https://github.com/109021017/android-TopActivity).
-* [Muhtaseem Al Mahmud](https://github.com/KingMahmud) for project optimization.
+* [Codehasan](https://github.com/codehasan) for [Project Base](https://github.com/codehasan/Current-Activity).
 
 <h1 align="left">
   <b>&nbsp;License</b>
@@ -54,6 +53,6 @@ It uses accessibility service api and package usage stats to monitor app activit
 
 [![License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](LICENSE)
 <br/><br/>
-Current Activity is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
+About Activity is licensed under [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
 
 ---
