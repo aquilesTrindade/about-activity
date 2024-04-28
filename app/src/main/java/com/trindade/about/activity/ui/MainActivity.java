@@ -306,7 +306,7 @@ public class MainActivity extends AppCompatActivity {
 						public void onClick(DialogInterface di, int btn) {
 							di.dismiss();
 							startActivity(new Intent().setAction(Intent.ACTION_VIEW)
-									.setData(Uri.parse("https://github.com/aquilesTrindade/application-activity")));
+									.setData(Uri.parse("https://github.com/aquilesTrindade/about-activity")));
 						}
 					}).create().show();
 		} else if (title.equals(getString(R.string.bug_report_title))) {
@@ -319,7 +319,7 @@ public class MainActivity extends AppCompatActivity {
 						public void onClick(DialogInterface di, int btn) {
 							di.dismiss();
 							startActivity(new Intent().setAction(Intent.ACTION_VIEW).setData(
-									Uri.parse("https://github.com/aquilesTrindade/application-activity/issues/new")));
+									Uri.parse("https://github.com/aquilesTrindade/about-activity/issues/new")));
 						}
 					}).create().show();
 		}
