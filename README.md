@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="210em" height="auto" src="fastlane/metadata/android/en-US/images/ic_launcher.png" alt="Logo" border="0">
+  <img width="210em" height="auto" src=".github/ic_launcher.png" alt="Logo" border="0">
 </div>
 <h1 align="center">
   <b>About Activity</b>
