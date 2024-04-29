@@ -26,7 +26,7 @@ jobs:
         uses: gradle/wrapper-validation-action@v1.0.4
 
       - name: Build with gradle
-        uses: gradle/gradle-build-action@v8.1.1
+        uses: gradle/gradle-build-action@v2
         with:
           arguments: assembleDebug
 
