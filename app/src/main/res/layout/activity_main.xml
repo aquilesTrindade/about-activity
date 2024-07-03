@@ -41,6 +41,7 @@
              android:layout_height="wrap_content"
              android:layout_width="match_parent"
              android:gravity="center_vertical"
+             android:background="?android:attr/selectableItemBackground"
              android:padding="12dp">
 
             <com.trindade.about.activity.view.NormalTextView
@@ -56,6 +57,7 @@
             <com.google.android.material.materialswitch.MaterialSwitch
                  android:layout_height="wrap_content"
                  android:layout_width="wrap_content"
+                 android:clickable="false"
                  android:id="@+id/sw_window" />
 
         </LinearLayout>
